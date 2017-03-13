@@ -1,3 +1,17 @@
 body {
-    background-color: red
+    background-color: #441e13
+}
+
+div {
+  outline: yellow 1px solid;
+}
+
+.logocontainer {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo {
+    width: 205px;
 }
